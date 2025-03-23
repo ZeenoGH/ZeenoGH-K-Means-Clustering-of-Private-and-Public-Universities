@@ -1,4 +1,4 @@
-# ZeenoGH-K-Means-Clustering-of-Private-and-Public-Universities
+#K-Means-Clustering-of-Private-and-Public-Universities
 For this project I used KMeans Clustering to cluster Universities into to two groups, Private and Public universities.
 ___
 Firstly, It is **very important to note, i actually have the labels for this data set, but i WILL NOT use them for the KMeans clustering algorithm, since that is an unsupervised learning algorithm.** but In this case i used the labels to try to get an idea of how well the algorithm performed, but knowing that i won't usually do this for Kmeans, so the classification report and confusion matrix at the end of this project, don't truly make sense in a real world setting!.
